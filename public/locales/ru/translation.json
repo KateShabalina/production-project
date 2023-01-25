@@ -3,5 +3,9 @@
   "translate": "Перевести",
   "aboutPage": "О сайте",
   "mainPage": "Главная страница",
-  "language": "Русский"
+  "language": "Русский",
+  "pageNotFound": "Страница не найдена",
+  "unexpectedError": "Произошла непредвиденная ошибка",
+  "reloadPage": "Обновить страницу",
+  "throwError": "Создать ошибку"
 }

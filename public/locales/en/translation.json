@@ -3,5 +3,9 @@
   "translate": "Translate",
   "aboutPage": "About us",
   "mainPage": "Main page",
-  "language": "English"
+  "language": "English",
+  "pageNotFound": "Page not found",
+  "unexpectedError": "Unexpected error occurred",
+  "reloadPage": "Reload page",
+  "throwError": "Throw Error"
 }

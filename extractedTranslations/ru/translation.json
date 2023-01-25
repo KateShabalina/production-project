@@ -1,5 +1,9 @@
 {
   "aboutPage": "aboutPage",
   "language": "language",
-  "mainPage": "mainPage"
+  "mainPage": "mainPage",
+  "pageNotFound": "pageNotFound",
+  "reloadPage": "reloadPage",
+  "throwError": "throwError",
+  "unexpectedError": "unexpectedError"
 }
