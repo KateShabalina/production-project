@@ -1,6 +1,8 @@
 {
+  "about": "about",
   "aboutPage": "aboutPage",
   "language": "language",
+  "main": "main",
   "mainPage": "mainPage",
   "pageNotFound": "pageNotFound",
   "reloadPage": "reloadPage",

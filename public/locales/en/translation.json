@@ -7,5 +7,7 @@
   "pageNotFound": "Page not found",
   "unexpectedError": "Unexpected error occurred",
   "reloadPage": "Reload page",
-  "throwError": "Throw Error"
+  "throwError": "Throw Error",
+  "main": "Main",
+  "about": "About us"
 }
