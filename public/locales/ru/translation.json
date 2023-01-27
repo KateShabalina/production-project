@@ -9,5 +9,6 @@
   "reloadPage": "Обновить страницу",
   "throwError": "Создать ошибку",
   "main": "На главную",
-  "about": "О нас"
+  "about": "О нас",
+  "toggle": "toggle"
 }

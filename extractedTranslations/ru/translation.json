@@ -7,5 +7,6 @@
   "pageNotFound": "pageNotFound",
   "reloadPage": "reloadPage",
   "throwError": "throwError",
-  "unexpectedError": "unexpectedError"
+  "unexpectedError": "unexpectedError",
+  "toggle": "toggle"
 }

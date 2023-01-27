@@ -9,5 +9,6 @@
   "reloadPage": "Reload page",
   "throwError": "Throw Error",
   "main": "Main",
-  "about": "About us"
+  "about": "About us",
+  "toggle": "toggle"
 }
