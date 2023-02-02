@@ -10,5 +10,6 @@
   "throwError": "Создать ошибку",
   "main": "На главную",
   "about": "О нас",
-  "languageShort": "Ru"
+  "languageShort": "Ru",
+  "login": "Войти"
 }

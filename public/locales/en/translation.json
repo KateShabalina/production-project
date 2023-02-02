@@ -10,5 +10,6 @@
   "throwError": "Throw Error",
   "main": "Main",
   "about": "About us",
-  "languageShort": "En"
+  "languageShort": "En",
+  "login": "Log in"
 }
