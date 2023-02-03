@@ -3,7 +3,8 @@
 @import "src/app/styles/themes/dark";
 @import "src/app/styles/themes/normal";
 
-body {
+.app,
+.app_modal {
   font-size: var(--font-m);
   font-family: "Gill Sans", sans-serif;
   color: var(--primary-color);
@@ -11,7 +12,6 @@ body {
 
 .app {
   background: var(--bg-color);
-  color: var(--primary-color);
   min-height: 100vh;
 }
 
