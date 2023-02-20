@@ -2,17 +2,17 @@
   "Log in": "Log in",
   "about": "about",
   "aboutPage": "aboutPage",
-  "enterPassword": "enterPassword",
-  "enterUsername": "enterUsername",
+  "enterPassword": "Enter password",
+  "enterUsername": "Enter username",
   "language": "language",
   "login": "login",
   "main": "main",
   "mainPage": "mainPage",
   "pageNotFound": "pageNotFound",
-  "password": "password",
+  "password": "Password",
   "reloadPage": "reloadPage",
   "throwError": "throwError",
   "toggle": "toggle",
   "unexpectedError": "unexpectedError",
-  "username": "username"
+  "username": "Username"
 }
