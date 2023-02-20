@@ -11,5 +11,9 @@
   "main": "Main",
   "about": "About us",
   "languageShort": "En",
-  "login": "Log in"
+  "login": "Login",
+  "enterPassword": "Enter password",
+  "enterUsername": "Enter username",
+  "username": "Username",
+  "password": "Password"
 }

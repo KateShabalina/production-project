@@ -11,5 +11,9 @@
   "main": "На главную",
   "about": "О нас",
   "languageShort": "Ru",
-  "login": "Войти"
+  "login": "Войти",
+  "enterPassword": "Введите пароль",
+  "enterUsername": "Введите имя пользователя",
+  "username": "Имя пользователя",
+  "password": "Пароль"
 }
