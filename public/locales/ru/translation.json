@@ -15,5 +15,8 @@
   "enterPassword": "Введите пароль",
   "enterUsername": "Введите имя пользователя",
   "username": "Имя пользователя",
-  "password": "Пароль"
+  "password": "Пароль",
+  "loginForm": "Форма авторизации",
+  "invalidLoginData": "Неверные логин или пароль",
+  "logout": "Выйти"
 }

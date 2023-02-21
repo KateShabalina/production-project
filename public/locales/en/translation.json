@@ -15,5 +15,8 @@
   "enterPassword": "Enter password",
   "enterUsername": "Enter username",
   "username": "Username",
-  "password": "Password"
+  "password": "Password",
+  "loginForm": "Login Form",
+  "invalidLoginData": "Invalid login or password",
+  "logout": "Logout"
 }
