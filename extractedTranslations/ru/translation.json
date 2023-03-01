@@ -13,6 +13,8 @@
   "mainPage": "mainPage",
   "pageNotFound": "pageNotFound",
   "password": "Password",
+  "profile": "profile",
+  "profilePage": "profilePage",
   "reloadPage": "reloadPage",
   "throwError": "throwError",
   "toggle": "toggle",

@@ -28,21 +28,6 @@
   margin-left: 30px;
 }
 
-.item {
-  display: flex;
-  align-items: center;
-  margin-top: 10px;
-}
-
-.link {
-  margin-left: 10px;
-  opacity: 1;
-}
-
-.icon {
-  fill: var(--inverted-primary-color);
-}
-
 .collapsed {
   width: var(--sidebar-width-collapsed);
 
