@@ -2,10 +2,13 @@
   "Log in": "Log in",
   "about": "about",
   "aboutPage": "aboutPage",
+  "edit": "edit",
   "enterPassword": "Enter password",
   "enterUsername": "Enter username",
+  "firstName": "firstName",
   "invalidLoginData": "",
   "language": "language",
+  "lastName": "lastName",
   "login": "login",
   "loginForm": "",
   "logout": "",
@@ -19,5 +22,6 @@
   "throwError": "throwError",
   "toggle": "toggle",
   "unexpectedError": "unexpectedError",
+  "userProfile": "userProfile",
   "username": "Username"
 }
