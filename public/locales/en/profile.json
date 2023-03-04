@@ -2,5 +2,15 @@
   "userProfile": "User profile",
   "edit": "Edit",
   "firstName": "First Name",
-  "lastName": "Last Name"
+  "lastName": "Last Name",
+  "loadingError": "An error occurred while loading user data",
+  "tryReload": "Try to refresh the page",
+  "cancel": "Cancel",
+  "save": "Save",
+  "age": "Age",
+  "currency": "Currency",
+  "country": "Country",
+  "city": "City",
+  "username": "Username",
+  "avatar": "Avatar"
 }
