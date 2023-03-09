@@ -19,5 +19,6 @@
   "loginForm": "Login Form",
   "invalidLoginData": "Invalid login or password",
   "logout": "Logout",
-  "profile": "Profile page"
+  "profile": "Profile",
+  "articles": "Articles"
 }
