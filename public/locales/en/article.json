@@ -1,5 +1,6 @@
 {
   "notFound": "Article not found",
   "loadingError": "An error occurred while loading the page",
-  "copy": "Copy"
+  "copy": "Copy",
+  "comments": "Comments"
 }

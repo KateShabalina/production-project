@@ -5,18 +5,20 @@ import { StateSchemaKey } from 'app/providers/StoreProvider/config/StateSchema';
 import { Reducer } from '@reduxjs/toolkit';
 
 export type ReducersList = {
-    [name in StateSchemaKey]?: Reducer;
+  [name in StateSchemaKey]?: Reducer;
 };
 
 interface DynamicModuleLoaderProps {
-    children: ReactNode;
-    reducers: ReducersList;
-    removeAfterUnmount?: boolean;
+  children: ReactNode;
+  reducers: ReducersList;
+  removeAfterUnmount?: boolean;
 }
 
 export const DynamicModuleLoader: FC<DynamicModuleLoaderProps> = (props) => {
   const {
-    children, reducers, removeAfterUnmount,
+    children,
+    reducers,
+    removeAfterUnmount = true,
   } = props;
 
   const dispatch = useDispatch();

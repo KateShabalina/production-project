@@ -20,5 +20,8 @@
   "invalidLoginData": "Invalid login or password",
   "logout": "Logout",
   "profile": "Profile",
-  "articles": "Articles"
+  "articles": "Articles",
+  "noComments": "No comments yet",
+  "enterComment": "Enter your comment",
+  "send": "Send"
 }

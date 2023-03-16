@@ -90,36 +90,64 @@
       "id": "2",
       "text": "some comment 2",
       "articleId": "1",
-      "userId": "1"
+      "userId": "2"
     },
     {
       "id": "3",
       "text": "some comment 3",
       "articleId": "1",
-      "userId": "1"
+      "userId": "2"
+    },
+    {
+      "articleId": "1",
+      "userId": "1",
+      "text": "hello",
+      "id": "ywZLZty"
+    },
+    {
+      "articleId": "1",
+      "userId": "1",
+      "text": "have a good day",
+      "id": "JZy5vAq"
     }
   ],
   "users": [
     {
       "id": "1",
       "username": "admin",
-      "password": "123"
+      "password": "123",
+      "avatar": "https://i.kym-cdn.com/entries/icons/original/000/043/403/cover3.jpg"
     },
     {
       "id": "2",
       "username": "user",
       "password": "123",
-      "role": "USER"
+      "role": "USER",
+      "avatar": "https://steamuserimages-a.akamaihd.net/ugc/974353381258701515/67DFC214C7166FAECF380BFACC10976AA2D86D1D/?imw=512&amp;imh=512&amp;ima=fit&amp;impolicy=Letterbox&amp;imcolor=%23000000&amp;letterbox=trueg"
     }
   ],
-  "profile": {
-    "first": "Ellie",
-    "lastName": "Warner",
-    "age": 20,
-    "currency": "CAD",
-    "country": "Canada",
-    "city": "Toronto",
-    "username": "admin",
-    "avatar": "https://i.kym-cdn.com/entries/icons/original/000/043/403/cover3.jpg"
-  }
+  "profile": [
+    {
+      "id": "1",
+      "first": "Ellie Alice",
+      "lastName": "Warner",
+      "age": 20,
+      "currency": "CAD",
+      "country": "Canada",
+      "city": "Toronto",
+      "username": "admin",
+      "avatar": "https://i.kym-cdn.com/entries/icons/original/000/043/403/cover3.jpg"
+    },
+    {
+      "id": "2",
+      "first": "John",
+      "lastName": "Smith",
+      "age": 32,
+      "currency": "USD",
+      "country": "France",
+      "city": "Paris",
+      "username": "testuser",
+      "avatar": "https://steamuserimages-a.akamaihd.net/ugc/974353381258701515/67DFC214C7166FAECF380BFACC10976AA2D86D1D/?imw=512&amp;imh=512&amp;ima=fit&amp;impolicy=Letterbox&amp;imcolor=%23000000&amp;letterbox=trueg"
+    }
+  ]
 }
