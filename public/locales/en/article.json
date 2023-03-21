@@ -2,5 +2,6 @@
   "notFound": "Article not found",
   "loadingError": "An error occurred while loading the page",
   "copy": "Copy",
-  "comments": "Comments"
+  "comments": "Comments",
+  "back": "Back to articles list"
 }
