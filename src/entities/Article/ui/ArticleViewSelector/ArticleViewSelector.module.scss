@@ -1,0 +1,12 @@
+.ArticleViewSelector {
+  width: 100%;
+  display: flex;
+  justify-content: right;
+  gap: 4px;
+}
+
+.selected {
+  fill: var(--primary-color);
+  background: var(--inverted-bg-color);
+  border-radius: 4px;
+}
