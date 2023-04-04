@@ -3,5 +3,18 @@
   "loadingError": "An error occurred while loading the page",
   "copy": "Copy",
   "comments": "Comments",
-  "back": "Back to articles list"
+  "back": "Back to articles list",
+  "sortBy": "Sort by",
+  "search": "Search",
+  "order": "Order",
+  "asc": "ASC",
+  "desc": "DESC",
+  "creationDate": "Creation date",
+  "title": "Title",
+  "views": "Views",
+  "science": "Science",
+  "economics": "Economics",
+  "it": "IT",
+  "all": "All",
+  "noArticles": "No articles on this topic were found"
 }

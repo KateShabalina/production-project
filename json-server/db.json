@@ -16,7 +16,8 @@
       "createdAt": "26.02.2022",
       "userId": "1",
       "type": [
-        "IT"
+        "IT",
+        "SCIENCE"
       ],
       "blocks": [
         {
@@ -84,11 +85,11 @@
       "title": "Python news",
       "subtitle": "Что нового в JS за 2022 год?",
       "img": "https://code.org/images/fill-480x360/tutorials/hoc2022/dance-party-2022.jpg",
-      "views": 1022,
-      "createdAt": "26.02.2022",
+      "views": 102,
+      "createdAt": "21.02.2021",
       "userId": "2",
       "type": [
-        "IT"
+        "ECONOMICS"
       ],
       "blocks": [
         {
@@ -156,11 +157,12 @@
       "title": "CSS news",
       "subtitle": "Что нового в JS за 2022 год?",
       "img": "https://code.org/images/oceans/mobile-ai.png",
-      "views": 1022,
-      "createdAt": "26.02.2022",
+      "views": 354,
+      "createdAt": "12.06.2022",
       "userId": "1",
       "type": [
-        "IT"
+        "IT",
+        "ECONOMICS"
       ],
       "blocks": [
         {
@@ -228,8 +230,8 @@
       "title": "React news",
       "subtitle": "Что нового в JS за 2022 год?",
       "img": "https://techcrunch.com/wp-content/uploads/2015/04/codecode.jpg",
-      "views": 1022,
-      "createdAt": "26.02.2022",
+      "views": 823,
+      "createdAt": "29.03.2023",
       "userId": "2",
       "type": [
         "IT"
@@ -300,11 +302,12 @@
       "title": "Kotlin news",
       "subtitle": "Что нового в JS за 2022 год?",
       "img": "https://miro.medium.com/v2/resize:fit:3600/0*n-2bW82Z6m6U2bij.jpeg",
-      "views": 1022,
-      "createdAt": "26.02.2022",
+      "views": 2930,
+      "createdAt": "26.02.2021",
       "userId": "1",
       "type": [
-        "IT"
+        "IT",
+        "SCIENCE"
       ],
       "blocks": [
         {
@@ -373,10 +376,10 @@
       "subtitle": "Что нового в JS за 2022 год?",
       "img": "https://assets.website-files.com/5dbfba8e8b3107b9aa912e57/5f6bd578e9914231071c71cc_14-no-code-apps.jpeg",
       "views": 1022,
-      "createdAt": "26.02.2022",
+      "createdAt": "22.04.2020",
       "userId": "1",
       "type": [
-        "IT"
+        "SCIENCE"
       ],
       "blocks": [
         {
@@ -441,14 +444,15 @@
     },
     {
       "id": "7",
-      "title": "Kotlin news",
+      "title": "Great news",
       "subtitle": "Что нового в JS за 2022 год?",
       "img": "https://st.depositphotos.com/1152339/2027/i/600/depositphotos_20276219-stock-photo-news-concept-computer-keyboard-with.jpg",
-      "views": 1022,
-      "createdAt": "26.02.2022",
-      "userId": "1",
+      "views": 89,
+      "createdAt": "16.05.2022",
+      "userId": "2",
       "type": [
-        "IT"
+        "IT",
+        "ECONOMICS"
       ],
       "blocks": [
         {
@@ -465,11 +469,11 @@
     },
     {
       "id": "8",
-      "title": "Python news",
+      "title": "Cool Python news",
       "subtitle": "Что нового в JS за 2022 год?",
       "img": "https://i2-prod.dailyrecord.co.uk/incoming/article29246985.ece/ALTERNATES/s615/0_JS250108611.jpg",
-      "views": 1022,
-      "createdAt": "26.02.2022",
+      "views": 78923,
+      "createdAt": "25.01.2023",
       "userId": "1",
       "type": [
         "IT"
@@ -489,14 +493,14 @@
     },
     {
       "id": "9",
-      "title": "Kotlin news",
+      "title": "Great Kotlin news",
       "subtitle": "Что нового в JS за 2022 год?",
       "img": "https://liveassets.ca/wp-content/uploads/2019/02/iiii.jpg",
-      "views": 1022,
+      "views": 1045,
       "createdAt": "26.02.2022",
-      "userId": "1",
+      "userId": "2",
       "type": [
-        "IT"
+        "SCIENCE"
       ],
       "blocks": [
         {
@@ -513,14 +517,14 @@
     },
     {
       "id": "10",
-      "title": "Python news",
+      "title": "Cat news",
       "subtitle": "Что нового в JS за 2022 год?",
       "img": "https://images.theconversation.com/files/496840/original/file-20221122-22-gpfi1q.jpg?ixlib=rb-1.1.0&rect=198%2C77%2C5328%2C2664&q=45&auto=format&w=668&h=324&fit=crop",
-      "views": 1022,
-      "createdAt": "26.02.2022",
-      "userId": "1",
+      "views": 456678,
+      "createdAt": "14.02.2021",
+      "userId": "2",
       "type": [
-        "IT"
+        "SCIENCE"
       ],
       "blocks": [
         {
@@ -537,14 +541,15 @@
     },
     {
       "id": "11",
-      "title": "Kotlin news",
+      "title": "Vancouver news",
       "subtitle": "Что нового в JS за 2022 год?",
       "img": "https://www.globalfocusmagazine.com/wp-content/uploads/2020/02/Engaging_with_technology-scaled.jpg",
-      "views": 1022,
-      "createdAt": "26.02.2022",
+      "views": 345,
+      "createdAt": "27.02.2023",
       "userId": "1",
       "type": [
-        "IT"
+        "IT",
+        "ECONOMICS"
       ],
       "blocks": [
         {
@@ -561,14 +566,14 @@
     },
     {
       "id": "12",
-      "title": "Python news",
+      "title": "Canada news",
       "subtitle": "Что нового в JS за 2022 год?",
       "img": "https://assets3.thrillist.com/v1/image/2824030/1200x630/flatten;crop_down;webp=auto;jpeg_quality=70",
-      "views": 1022,
+      "views": 7804,
       "createdAt": "26.02.2022",
-      "userId": "1",
+      "userId": "2",
       "type": [
-        "IT"
+        "ECONOMICS"
       ],
       "blocks": [
         {
@@ -585,12 +590,12 @@
     },
     {
       "id": "13",
-      "title": "Kotlin news",
+      "title": "Redux news",
       "subtitle": "Что нового в JS за 2022 год?",
       "img": "https://kinsta.com/wp-content/uploads/2020/04/code-review-tools.png",
-      "views": 1022,
+      "views": 567,
       "createdAt": "26.02.2022",
-      "userId": "1",
+      "userId": "2",
       "type": [
         "IT"
       ],
@@ -609,10 +614,10 @@
     },
     {
       "id": "14",
-      "title": "Python news",
+      "title": "JS news",
       "subtitle": "Что нового в JS за 2022 год?",
       "img": "https://news.mit.edu/sites/default/files/styles/news_article__image_gallery/public/images/202012/MIT-Coding-Brain-01-press_0.jpg?itok=JKoUflf8",
-      "views": 1022,
+      "views": 2033,
       "createdAt": "26.02.2022",
       "userId": "1",
       "type": [
@@ -633,14 +638,15 @@
     },
     {
       "id": "15",
-      "title": "Kotlin news",
+      "title": "Java news",
       "subtitle": "Что нового в JS за 2022 год?",
       "img": "https://www.freecodecamp.org/news/content/images/2022/01/alexander-sinn-KgLtFCgfC28-unsplash.jpg",
-      "views": 1022,
+      "views": 901,
       "createdAt": "26.02.2022",
-      "userId": "1",
+      "userId": "2",
       "type": [
-        "IT"
+        "IT",
+        "SCIENCE"
       ],
       "blocks": [
         {
@@ -657,14 +663,14 @@
     },
     {
       "id": "16",
-      "title": "Python news",
+      "title": "Good news",
       "subtitle": "Что нового в JS за 2022 год?",
       "img": "https://www.unwomen.org/sites/default/files/2023-03/CSW67-web-banner_0.jpg",
-      "views": 1022,
+      "views": 1234,
       "createdAt": "26.02.2022",
       "userId": "1",
       "type": [
-        "IT"
+        "ECONOMICS"
       ],
       "blocks": [
         {
@@ -681,10 +687,10 @@
     },
     {
       "id": "17",
-      "title": "Kotlin news",
+      "title": "Php news",
       "subtitle": "Что нового в JS за 2022 год?",
       "img": "https://img.freepik.com/free-vector/cute-cat-computer-with-mouse-cartoon-vector-icon-illustration-animal-technology-icon-concept-isolated-premium-vector-flat-cartoon-style_138676-3695.jpg?w=2000",
-      "views": 1022,
+      "views": 678,
       "createdAt": "26.02.2022",
       "userId": "1",
       "type": [
